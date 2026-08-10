@@ -578,7 +578,12 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-uid="4d683d49a341f8e9f55ffcfaa0582988" data-source="TV_Amrik" tvg-chno="2" tvg-id="KMBC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="LIVE TV - USA",ABC
 http://stream.cammonitorplus.net/1790/index.m3u8
 #EXTINF:-1 tvg-uid="5a2c0b391bd01aa156f1ad32e1b70592" data-source="TV_Amrik" tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="LIVE TV - USA",AMC
-http://23.239.31.26:8989/amc/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd
+
 #EXTINF:-1 tvg-uid="eab2c71d0995249525f73d59e88e5a5f" data-source="TV_Amrik" tvg-chno="109" tvg-id="KXAS-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="LIVE TV - USA",NBC
 http://stream.cammonitorplus.net/1765/index.m3u8
 #EXTINF:-1 tvg-uid="16d9ef674a7e89b27b319e0689a15280" data-source="TV_Amrik" tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="LIVE TV - USA",ACC Network
