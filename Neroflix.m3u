@@ -929,26 +929,12 @@ https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-a
 https://d1upcw8nab85tc.cloudfront.net/dngn.m3u8
 #EXTINF:-1 tvg-id="5n1sIDsJoG2CPj" tvg-name="Der TV" tvg-language="eng" tvg-country="UK" group-title="UK",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
-#EXTINF:-1 tvg-id="dQ9sIG5xcxVjIW" tvg-name="Dog the Bounty Hunter UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Dog the Bounty Hunter UK
-https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="dQ9sIG5xcxVjIW" tvg-name="Dog the Bounty Hunter UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Dog the Bounty Hunter UK (alt 2)
-https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BtGcx9v6eZu6vK" tvg-name="Dog Whisperer UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Dog Whisperer UK
-https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
-#EXTINF:-1 tvg-id="6DT2CZ9jL47ilp" tvg-name="Duck Dynasty UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Duck Dynasty UK
-https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6DT2CZ9jL47ilp" tvg-name="Duck Dynasty UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Duck Dynasty UK (alt 2)
-https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="6DT2CZ9jL47ilp" tvg-name="Duck Dynasty UK" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",Duck Dynasty UK (alt 3)
-https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
-#EXTINF:-1 tvg-id="JS9e4HYIPiryYz" tvg-name="Dude Perfect" tvg-country="UK" group-title="UK - Geo-blocked",Dude Perfect
-https://amg07653-apmc-amg07653c4-samsung-gb-9942.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg07653-aparentmediacoinc-dudeperfectchannel-samsunggb/playlist.m3u8
+
 #EXTINF:-1 tvg-id="I5YKN2OSjYs5kA" tvg-name="Dunya News UK" tvg-language="eng;urd" tvg-country="UK" group-title="UK",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="2eTnPYBaOyQqFR" tvg-name="Earth Touch" tvg-country="UK" group-title="UK",Earth Touch
 https://amg01823-earthtouch-amg01823c1-samsung-gb-862.playouts.now.amagi.tv/playlist/amg01823-earthtouch-earthtouch-samsunggb/playlist.m3u8
-#EXTINF:-1 tvg-id="1PNuMiQbqJG7DL" tvg-name="Emergency 24/7" tvg-country="UK" group-title="UK - Geo-blocked",Emergency 24/7
-https://d3cm8xyrjwa22p.cloudfront.net/30504/88896036/hls/master.m3u8?ads.xumo_channelId=88896036
+
 #EXTINF:-1 tvg-id="b9z8Esreszehk1" tvg-name="English Club TV" tvg-language="eng" tvg-country="UK" group-title="UK",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="b9z8Esreszehk1" tvg-name="English Club TV" tvg-language="eng" tvg-country="UK" group-title="UK",English Club TV (alt 2)
@@ -967,12 +953,7 @@ https://amg00145-amg00145c23-samsung-gb-7654.playouts.now.amagi.tv/playlist.m3u8
 https://d21izs34d0y5tl.cloudfront.net/Fireplace_4K_SONO20.m3u8
 #EXTINF:-1 tvg-id="D6bV62QbdgsCop" tvg-name="FMTV" tvg-language="spa" tvg-country="UK" group-title="UK",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="xAwIJiuvV7pfvX" tvg-name="GB News" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",GB News
-https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
-#EXTINF:-1 tvg-id="xAwIJiuvV7pfvX" tvg-name="GB News" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",GB News (alt 2)
-https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="xAwIJiuvV7pfvX" tvg-name="GB News" tvg-language="eng" tvg-country="UK" group-title="UK - Geo-blocked",GB News (alt 3)
-https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="k9Z5raN5ubTZep" tvg-name="Gems TV" tvg-language="eng" tvg-country="UK" group-title="UK",Gems TV
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
